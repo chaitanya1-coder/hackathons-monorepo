@@ -27,7 +27,7 @@ Welcome to the Stellar x Polkadot Hackerhouse BLR submissions repository! This r
    ```bash
    git add .
    git commit -m "Add submission: [Your Project Name]"
-   git push origin main
+   git push origin Stellar-x-Polkadot-HackerHouse-BLR
    ```
 
 ### Option 2: Pushing Existing Code
